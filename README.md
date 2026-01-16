@@ -27,11 +27,11 @@ The system is built around the ESP32 microcontroller, integrating multiple senso
 We moved beyond breadboard prototypes to a **custom-designed PCB** (Printed Circuit Board) using **EasyEDA** to ensure durability and wearable comfort.
 
 ### 1. Schematic Diagram
-![Schematic Diagram](schematic_image.pdf)
+![Schematic Diagram](schematic_image.png)
 *Figure 1: Complete circuit diagram showing connections between ESP32, sensors, and actuators.*
 
 ### 2. PCB Layout
-![PCB Design](pcb_layout.zip)
+![PCB Design](pcb_layout_image.png)
 *Figure 2: Custom PCB layout designed to fit within the enclosure.*
 
 ## Firmware Logic (State Machine)
