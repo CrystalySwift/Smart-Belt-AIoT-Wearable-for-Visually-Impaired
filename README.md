@@ -31,7 +31,7 @@ We moved beyond breadboard prototypes to a **custom-designed PCB** (Printed Circ
 *Figure 1: Complete circuit diagram showing connections between ESP32, sensors, and actuators.*
 
 ### 2. PCB Layout
-![PCB Design](pcb_layout_image.png)
+![PCB Design](pcb_layout.png)
 *Figure 2: Custom PCB layout designed to fit within the enclosure.*
 
 ## Firmware Logic (State Machine)
